@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "diogo0587",
+  "repo": "container-xsvx7iq",
+  "name": "diogo0587",
+  "email": "diogo0587@gmail.com",
+}
